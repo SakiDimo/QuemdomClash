@@ -137,4 +137,28 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Demos/MMSceneLoading/MMSceneLoadingDemoSceneB.unity
     guid: 352d34cac2435634fb99618d19a3929c
+  - enabled: 1
+    path: Assets/QuemdomClash/Scenes/home.unity
+    guid: 2c46e83c4925dcc4b9c1575c67a18285
+  - enabled: 1
+    path: Assets/QuemdomClash/Scenes/Nvl 1.unity
+    guid: 8c645586c4264cb4197fb71504699dcc
+  - enabled: 1
+    path: Assets/QuemdomClash/Scenes/Nvl 2.unity
+    guid: 58bc27ee88525f64a9fc530bcf7fdc59
+  - enabled: 1
+    path: Assets/QuemdomClash/Scenes/Nvl 3.unity
+    guid: 7e3ac6caf38977e479271b9303e70006
+  - enabled: 1
+    path: Assets/QuemdomClash/Scenes/instrucciones.unity
+    guid: 395a0881bc65fc54d89ecd1ed1cf8d6e
+  - enabled: 1
+    path: Assets/QuemdomClash/Scenes/Gano.unity
+    guid: 86c800518bf0a3a4387afd7daf314bc1
+  - enabled: 1
+    path: Assets/QuemdomClash/Scenes/Perdio.unity
+    guid: fd427b66d92bc2a4285b523f6b0bfb65
+  - enabled: 1
+    path: Assets/QuemdomClash/Scenes/Creditos.unity
+    guid: 1e31791d89bf9ad4590680233b1c60c9
   m_configObjects: {}
