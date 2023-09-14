@@ -10,4 +10,19 @@ public class ControlJuego : MonoBehaviour
         Debug.Log("Ir a Jugar");
         MMSceneLoadingManager.LoadScene("Nvl 1");
     }
+    public void OnInstrucciones()
+    {
+        Debug.Log("Ir a instrucciones");
+        MMSceneLoadingManager.LoadScene("instrucciones");
+    }
+    public void OnCreditos()
+    {
+        Debug.Log("Ir a Creditos");
+        MMSceneLoadingManager.LoadScene("Creditos");
+    }
+    public void OnVolver()
+    {
+        Debug.Log("Volver al menu");
+        MMSceneLoadingManager.LoadScene("home");
+    }
 }
